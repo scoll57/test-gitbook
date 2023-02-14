@@ -104,6 +104,14 @@ $ kubectl get po -n cocktail-system -owide
 
 * 애드온 목록에서 업로드한 Chart 버젼과 화면에 보이는 버젼이 동일 한지 확인 합니다.
   * 업로드 Version : **1.15.12**
+
+<figure><img src=".gitbook/assets/Untitled 2.png" alt=""><figcaption></figcaption></figure>
+
 * 애드온 화면에서 Version 노출 확인 : **1.15.12**
   * 화면 깨짐이 없는지 확인
+
+<figure><img src=".gitbook/assets/Untitled 3.png" alt=""><figcaption></figcaption></figure>
+
 * 애드온 화면에서 Version : 1.15.12 선택 후 저장 버튼을 클릭하여 배포 합니다.
+
+<figure><img src=".gitbook/assets/Untitled 4.png" alt=""><figcaption></figcaption></figure>
